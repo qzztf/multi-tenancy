@@ -1,0 +1,2 @@
+tenantInfoConsumer=TenantInfoConsumerFilter
+tenantInfoProvider=TenantInfoProviderFilter
